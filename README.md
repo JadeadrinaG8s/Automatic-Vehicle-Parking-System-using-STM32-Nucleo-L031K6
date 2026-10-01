@@ -338,6 +338,7 @@ int main(void)
 }
 
 ## Expected Output
+<img width="585" height="430" alt="image" src="https://github.com/user-attachments/assets/31157dc1-a6eb-4f02-8c33-032b5ece9b69" />
 
 ### Initially – Both Slots Available
 
